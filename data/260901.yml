@@ -1,0 +1,56 @@
+about:
+  description: A cross-platform TUI database management tool written in Go.
+  license: MIT
+  homepage: 
+  head: 54787af
+  archived: false
+  latestVersion: v0.5.6
+  collectedAt: 2026-09-01T05:19:46Z
+timeline:
+  created: 2023-05-29
+  lastCommit: 2026-08-22
+  lastRelease: 2026-08-22
+popularity:
+  star: 4254
+  watcher: 22
+  fork: 197
+  release: 45
+  contributor: 54
+  pullRequest: 42
+  issue: 149
+language:
+  Go: 650451
+totalLine: 650451
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 4
+    openPR: 5
+    closedIssue: 1
+    openIssue: 2
+    commit: 9
+  last90d:
+    since: 2026-06-03
+    release: 3
+    mergedPR: 8
+    openPR: 11
+    closedIssue: 7
+    openIssue: 3
+    commit: 26
+  last180d:
+    since: 2026-03-05
+    release: 8
+    mergedPR: 19
+    openPR: 13
+    closedIssue: 13
+    openIssue: 6
+    commit: 63
+  last360d:
+    since: 2025-09-06
+    release: 15
+    mergedPR: 56
+    openPR: 15
+    closedIssue: 30
+    openIssue: 15
+    commit: 136
