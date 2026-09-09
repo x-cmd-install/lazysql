@@ -5,9 +5,9 @@ A cross-platform TUI database management tool written in Go.
 - **Upstream**: <https://github.com/jorgerojas26/lazysql>
 - **Homepage**: <>
 - **Latest release**: `v0.5.6` (2026-08-22)
-- **Last commit**: 2026-08-22
+- **Last commit**: 2026-08-23
 - **License**: MIT
-- **Stars**: 4278 · **Forks**: 198 · **Open issues**: 149 · **Contributors**: 54
+- **Stars**: 4280 · **Forks**: 198 · **Open issues**: 149 · **Contributors**: 54
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/lazysql> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:13:46Z._
+_Last regenerated: 2026-09-09T05:13:50Z._
