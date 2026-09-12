@@ -1,3 +1,72 @@
+- repo: aur
+  srcname: lazysql
+  binname: lazysql
+  visiblename: lazysql
+  version: 0.5.5
+  origversion: 0.5.5-3
+  status: outdated
+  summary: A cross-platform TUI database management tool written in Go
+  maintainers:
+    - ogrigorios@aur
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: lazysql
+  binnames:
+    - lazysql
+    - lazysql-debuginfo
+  visiblename: lazysql
+  version: 0.4.8
+  origversion: 0.4.8-alt1
+  status: outdated
+  summary: A cross-platform TUI database management tool written in Go.
+  maintainers:
+    - nash@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Databases
+- repo: aur
+  srcname: lazysql-bin
+  binname: lazysql-bin
+  visiblename: lazysql-bin
+  version: 0.5.7
+  origversion: 0.5.7-1
+  status: newest
+  summary: A cross-platform TUI database management tool written in Go
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: lazysql
+  visiblename: lazysql
+  version: 0.5.7
+  origversion: null
+  status: newest
+  summary: Cross-platform TUI database management tool
+- repo: homebrew
+  srcname: lazysql
+  visiblename: lazysql
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cross-platform TUI database management tool
+- repo: macports
+  srcname: databases/lazysql
+  binname: lazysql
+  visiblename: lazysql
+  version: 0.5.6
+  origversion: null
+  status: outdated
+  summary: A cross-platform TUI database management tool written in Go.
+  maintainers:
+    - amake@macports
+    - amake@github
+  licenses:
+    - MIT
+  categories:
+    - databases
 - repo: nix_stable_24_05
   srcname: lazysql
   visiblename: lazysql
@@ -31,75 +100,6 @@
     - kanielrkirby@runbox.com
   licenses:
     - MIT
-- repo: altsisyphus
-  srcname: lazysql
-  binnames:
-    - lazysql
-    - lazysql-debuginfo
-  visiblename: lazysql
-  version: 0.4.8
-  origversion: 0.4.8-alt1
-  status: outdated
-  summary: A cross-platform TUI database management tool written in Go.
-  maintainers:
-    - nash@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Databases
-- repo: aur
-  srcname: lazysql
-  binname: lazysql
-  visiblename: lazysql
-  version: 0.5.5
-  origversion: 0.5.5-3
-  status: outdated
-  summary: A cross-platform TUI database management tool written in Go
-  maintainers:
-    - ogrigorios@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: lazysql-bin
-  binname: lazysql-bin
-  visiblename: lazysql-bin
-  version: 0.5.6
-  origversion: 0.5.6-1
-  status: newest
-  summary: A cross-platform TUI database management tool written in Go
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: lazysql
-  visiblename: lazysql
-  version: 0.5.6
-  origversion: null
-  status: newest
-  summary: Cross-platform TUI database management tool
-- repo: homebrew
-  srcname: lazysql
-  visiblename: lazysql
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Cross-platform TUI database management tool
-- repo: macports
-  srcname: databases/lazysql
-  binname: lazysql
-  visiblename: lazysql
-  version: 0.5.6
-  origversion: null
-  status: newest
-  summary: A cross-platform TUI database management tool written in Go.
-  maintainers:
-    - amake@macports
-    - amake@github
-  licenses:
-    - MIT
-  categories:
-    - databases
 - repo: nix_stable_25_11
   srcname: lazysql
   visiblename: lazysql
@@ -127,7 +127,7 @@
   visiblename: lazysql
   version: 0.5.6
   origversion: null
-  status: newest
+  status: outdated
   summary: Cross-platform TUI database management tool written in Go
   maintainers:
     - fallback-mnt-nix@repology
@@ -137,7 +137,7 @@
   subrepo: extras
   binname: lazysql
   visiblename: lazysql
-  version: 0.5.6
+  version: 0.5.7
   origversion: null
   status: newest
   licenses:
