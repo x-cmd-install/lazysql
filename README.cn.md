@@ -14,12 +14,12 @@ x install lazysql
 
 ## 代码洞察
 
-合计: **19,860** 行代码（覆盖前 5 种语言、共 **76** 个文件）。
+合计: **20,208** 行代码（覆盖前 5 种语言、共 **77** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 19,860 | 1,077 | 3,651 | 73 |
-| Markdown | 0 | 498 | 196 | 2 |
+| Go | 20,208 | 1,126 | 3,746 | 74 |
+| Markdown | 0 | 505 | 201 | 2 |
 | Text | 0 | 17 | 4 | 1 |
 
 ## 源代码
@@ -29,51 +29,51 @@ x install lazysql
 
 ## 发布
 
-- **最新版本**: `v0.5.6` (2026-08-22)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.5.7` (2026-09-11)
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 4,285 · **Fork**: 198 · **开放 issue**: 149 · **贡献者**: 55
+- **Star**: 4,289 · **Fork**: 199 · **开放 issue**: 150 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 133 · **开放 PR**: 14 · **已关闭 issue**: 117 · **开放 issue**: 32 · **提交数**: 684
+- **发布数**: 46 · **已合并 PR**: 138 · **开放 PR**: 9 · **已关闭 issue**: 120 · **开放 issue**: 30 · **提交数**: 697
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 5 | 1 | 0 | 1 | 15 |
-| last60d | 2026-07-13 | 1 | 7 | 7 | 3 | 2 | 19 |
-| 90d | 2026-06-13 | 2 | 9 | 10 | 8 | 2 | 31 |
-| last180d | 2026-03-15 | 8 | 20 | 11 | 13 | 4 | 65 |
-| 360d | 2025-09-16 | 14 | 56 | 14 | 30 | 14 | 142 |
-| last720d | 2024-09-21 | 26 | 97 | 14 | 65 | 29 | 445 |
+| 30d | 2026-08-13 | 2 | 7 | 0 | 1 | 1 | 18 |
+| last60d | 2026-07-14 | 2 | 12 | 2 | 5 | 1 | 25 |
+| 90d | 2026-06-14 | 3 | 14 | 5 | 10 | 1 | 37 |
+| last180d | 2026-03-16 | 9 | 25 | 6 | 15 | 3 | 71 |
+| 360d | 2025-09-17 | 15 | 61 | 9 | 33 | 12 | 148 |
+| last720d | 2024-09-22 | 27 | 102 | 9 | 68 | 26 | 458 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lazysql_0.5.6_checksums.txt](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_0.5.6_checksums.txt) | 744 B | `other` |
-| [lazysql_Darwin_arm64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Darwin_arm64.tar.gz) | 6.3 MiB | `native/darwin/arm64` |
-| [lazysql_Darwin_x86_64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Darwin_x86_64.tar.gz) | 6.6 MiB | `native/darwin/x64` |
-| [lazysql_Linux_arm64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Linux_arm64.tar.gz) | 6.1 MiB | `native/linux/arm64` |
-| [lazysql_Linux_i386.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Linux_i386.tar.gz) | 6.2 MiB | `native/linux/x86` |
-| [lazysql_Linux_x86_64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Linux_x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [lazysql_Windows_arm64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Windows_arm64.zip) | 6.1 MiB | `native/win/arm64` |
-| [lazysql_Windows_i386.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Windows_i386.zip) | 6.4 MiB | `native/win/x64` |
-| [lazysql_Windows_x86_64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.6/lazysql_Windows_x86_64.zip) | 6.6 MiB | `native/win/x64` |
+| [lazysql_0.5.7_checksums.txt](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_0.5.7_checksums.txt) | 744 B | `other` |
+| [lazysql_Darwin_arm64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Darwin_arm64.tar.gz) | 6.6 MiB | `native/darwin/arm64` |
+| [lazysql_Darwin_x86_64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Darwin_x86_64.tar.gz) | 7.0 MiB | `native/darwin/x64` |
+| [lazysql_Linux_arm64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [lazysql_Linux_i386.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_i386.tar.gz) | 6.5 MiB | `native/linux/x86` |
+| [lazysql_Linux_x86_64.tar.gz](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_x86_64.tar.gz) | 6.8 MiB | `native/linux/x64` |
+| [lazysql_Windows_arm64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_arm64.zip) | 6.4 MiB | `native/win/arm64` |
+| [lazysql_Windows_i386.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_i386.zip) | 6.7 MiB | `native/win/x64` |
+| [lazysql_Windows_x86_64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/lazysql) 上共有 **14** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/lazysql) 上共有 **14** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.5.6` | ✅ latest |
-| Nix unstable | `0.5.6` | ✅ latest |
+| Homebrew | `0.5.7` | ✅ latest |
+| Nix unstable | `0.5.6` | ⚠️ outdated |
 | Void | `0.5.5` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -85,4 +85,4 @@ lazysql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:00:24Z._
+_数据快照: `data/card/260912.yml` · 2026-09-12T04:57:14Z._
