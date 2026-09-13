@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 744,
       "digest": "sha256:a398252c50ee68e702da47a4f31f388f5e54d14409795ba3c5311d13b520cf87",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-09-11T18:20:49Z",
       "updated_at": "2026-09-11T18:20:49Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_0.5.7_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6926120,
       "digest": "sha256:bcd582b4f7382a31e1a016fc65b71baec1a1bd9ea4a0490666b23c6d027fc1c8",
-      "download_count": 7,
+      "download_count": 21,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7304131,
       "digest": "sha256:4187fab5e7be6c6289a82c521cafbd5fe1caee84c9cc0a37f55c1d7c15e814ff",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-11T18:20:48Z",
       "updated_at": "2026-09-11T18:20:49Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6649709,
       "digest": "sha256:7132cd5ac06fd5c6ebabd2a1d3ee7f9c011187603fe529d4701afb3fac13b610",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-09-11T18:20:48Z",
       "updated_at": "2026-09-11T18:20:48Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6830295,
       "digest": "sha256:dfe777c86c2db4238ceef5462a09e44eda3b6be94326dbc65672685eab6df372",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-11T18:20:47Z",
       "updated_at": "2026-09-11T18:20:54Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7179847,
       "digest": "sha256:73e44a678bbfbf8631c6063485ac1c6e8dbdceb42500f84a0ee3f2360005fcd2",
-      "download_count": 39,
+      "download_count": 155,
       "created_at": "2026-09-11T18:20:48Z",
       "updated_at": "2026-09-11T18:20:48Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6664580,
       "digest": "sha256:505c8858e3857f9f12a8653a9bdd14db8411e22db02e82085c8977f4fc3ef35f",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7002300,
       "digest": "sha256:1b5c9001a4f44139384992ee226b4df97e25490d3d7d34e107c9d826f5581a6a",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_i386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7271250,
       "digest": "sha256:136631cb167a1896def043be94d33487d5738d664f053e061a432904862ce2ff",
-      "download_count": 26,
+      "download_count": 56,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_x86_64.zip"

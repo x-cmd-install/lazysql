@@ -1,13 +1,23 @@
-- repo: aur
+- repo: nix_stable_24_05
   srcname: lazysql
-  binname: lazysql
   visiblename: lazysql
-  version: 0.5.5
-  origversion: 0.5.5-3
+  version: 0.1.8
+  origversion: null
   status: outdated
   summary: A cross-platform TUI database management tool written in Go
   maintainers:
-    - ogrigorios@aur
+    - kanielrkirby@runbox.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: lazysql
+  visiblename: lazysql
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: A cross-platform TUI database management tool written in Go
+  maintainers:
+    - kanielrkirby@runbox.com
   licenses:
     - MIT
 - repo: altsisyphus
@@ -26,6 +36,18 @@
     - MIT
   categories:
     - Databases
+- repo: aur
+  srcname: lazysql
+  binname: lazysql
+  visiblename: lazysql
+  version: 0.5.5
+  origversion: 0.5.5-3
+  status: outdated
+  summary: A cross-platform TUI database management tool written in Go
+  maintainers:
+    - ogrigorios@aur
+  licenses:
+    - MIT
 - repo: aur
   srcname: lazysql-bin
   binname: lazysql-bin
@@ -56,9 +78,9 @@
   srcname: databases/lazysql
   binname: lazysql
   visiblename: lazysql
-  version: 0.5.6
+  version: 0.5.7
   origversion: null
-  status: outdated
+  status: newest
   summary: A cross-platform TUI database management tool written in Go.
   maintainers:
     - amake@macports
@@ -67,28 +89,6 @@
     - MIT
   categories:
     - databases
-- repo: nix_stable_24_05
-  srcname: lazysql
-  visiblename: lazysql
-  version: 0.1.8
-  origversion: null
-  status: outdated
-  summary: A cross-platform TUI database management tool written in Go
-  maintainers:
-    - kanielrkirby@runbox.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: lazysql
-  visiblename: lazysql
-  version: 0.3.0
-  origversion: null
-  status: outdated
-  summary: A cross-platform TUI database management tool written in Go
-  maintainers:
-    - kanielrkirby@runbox.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: lazysql
   visiblename: lazysql
