@@ -35,7 +35,7 @@ Total: **20,208** lines of code across **77** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,296 · **Forks**: 199 · **Open issues**: 150 · **Contributors**: 57
+- **Stars**: 4,298 · **Forks**: 201 · **Open issues**: 150 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **20,208** lines of code across **77** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 6 | 1 | 1 | 1 | 9 |
-| last60d | 2026-07-15 | 2 | 12 | 3 | 5 | 1 | 24 |
-| 90d | 2026-06-15 | 3 | 14 | 6 | 10 | 1 | 37 |
-| last180d | 2026-03-17 | 9 | 25 | 7 | 15 | 3 | 71 |
-| 360d | 2025-09-18 | 15 | 61 | 10 | 33 | 12 | 146 |
-| last720d | 2024-09-23 | 27 | 102 | 10 | 68 | 26 | 458 |
+| 30d | 2026-08-15 | 2 | 5 | 1 | 1 | 1 | 9 |
+| last60d | 2026-07-16 | 2 | 12 | 3 | 4 | 1 | 24 |
+| 90d | 2026-06-16 | 3 | 14 | 6 | 10 | 1 | 37 |
+| last180d | 2026-03-18 | 9 | 25 | 7 | 15 | 3 | 71 |
+| 360d | 2025-09-19 | 15 | 60 | 10 | 33 | 12 | 146 |
+| last720d | 2024-09-24 | 27 | 102 | 10 | 68 | 26 | 455 |
 
 ## Release assets
 
@@ -66,16 +66,6 @@ Total: **20,208** lines of code across **77** files in the top 5 languages.
 | [lazysql_Windows_i386.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_i386.zip) | 6.7 MiB | `native/win/x64` |
 | [lazysql_Windows_x86_64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_x86_64.zip) | 6.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/lazysql). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.5.7` | ✅ latest |
-| Nix unstable | `0.5.6` | ⚠️ outdated |
-| Void | `0.5.5` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazysql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +75,4 @@ Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:19:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:38:17Z._
