@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6926120,
       "digest": "sha256:bcd582b4f7382a31e1a016fc65b71baec1a1bd9ea4a0490666b23c6d027fc1c8",
-      "download_count": 33,
+      "download_count": 46,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6649709,
       "digest": "sha256:7132cd5ac06fd5c6ebabd2a1d3ee7f9c011187603fe529d4701afb3fac13b610",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-09-11T18:20:48Z",
       "updated_at": "2026-09-11T18:20:48Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6830295,
       "digest": "sha256:dfe777c86c2db4238ceef5462a09e44eda3b6be94326dbc65672685eab6df372",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-11T18:20:47Z",
       "updated_at": "2026-09-11T18:20:54Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7179847,
       "digest": "sha256:73e44a678bbfbf8631c6063485ac1c6e8dbdceb42500f84a0ee3f2360005fcd2",
-      "download_count": 247,
+      "download_count": 327,
       "created_at": "2026-09-11T18:20:48Z",
       "updated_at": "2026-09-11T18:20:48Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7271250,
       "digest": "sha256:136631cb167a1896def043be94d33487d5738d664f053e061a432904862ce2ff",
-      "download_count": 74,
+      "download_count": 108,
       "created_at": "2026-09-11T18:20:46Z",
       "updated_at": "2026-09-11T18:20:47Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.5.7/lazysql_Windows_x86_64.zip"
@@ -366,14 +366,14 @@
   "body": "## Changelog\n* 41ea964d070a4edc023cdf7a651e008c2360ad93 Merge branch 'main' into feat/kerberos-auth\n* c1eceb38bac7b1531229ca431308b4f70fb7b118 Merge branch 'main' into fix/readonly-cte-bypass\n* baade282b99c30c17104f8d5e9513987c8626370 Merge pull request #324 from nick4eva/fix-quit-window-hang\n* a07385a07523428234e350727f9e769f464e302e Merge pull request #326 from jorgerojas26/feat/kerberos-auth\n* 49fb2c64a36fe7503162efc3d27278e038a71d58 Merge pull request #331 from phellipw/feat/connection-form-show-all-databases\n* 00f5748e1f8850424c0dc73f0e3ca2832106c553 Merge pull request #335 from Dessalines39394/fix/star-history-chart\n* 13b873e0e312244303a8d61716a05626c2a68d00 Merge pull request #336 from VXNCXNX/fix/readonly-cte-bypass\n* 4e332b0d34226d925b3e504d65cb18e5c1bff40b Merge pull request #341 from Liferenko/bugfix/broken_focus_on_active_table_tab_when_many_tabs_open\n* b7771b7be307fa811c1ca4c356f3460992945fd4 Merge pull request #343 from jorgerojas26/fix/issue-342\n* 498f90feecdc8d9ada85ce455924030d7c4eb6b8 ci: fall back to direct module downloads\n* e9513b4f57d72519a4818b00f970922819bd23d8 feat: add \"show all databases\" option to the connection form\n* fc65b223019b2a7fe26f5f74a7cce0a14a1af38d feat: add Kerberos auth support for MSSQL (non-Windows)\n* 17f3c708451e00804cba5afbe3b9a6efb76325d6 fix(mssql): support Azure SQL Database\n* 3ec41d63d2a8baf1bcc8b58224502bffe37e5333 fix(readonly): prevent CTE mutation bypass in read-only mode\n* b31bb80e160b53f7b40560e241c1b2787779fd7a fix: add icons to show tabs out of visible area\n* f3ded5b5810ce87d958fa342a9e1f30196eecbc7 fix: focus on active tab\n* 14d0054e04c6e72bc09363e44d959b29024a7f6a fix: polish tab header UI and harden header layout\n* a2867e467e7ab3c065c4787c07e6263cc3a1ac60 fix: quit dialog becomes unresponsive when opened during table load\n* 4f546aba5ce0e363550e783492b07df21f668a90 fix: return focus to results table after executing a query with Ctrl+R\n* d52c2618f4f1d368d791ade4909f04b61de4c418 fix: right-align the tab strip when reaching the last tab\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/jorgerojas26/lazysql/releases/387249230/reactions",
-    "total_count": 1,
+    "total_count": 4,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 1,
     "confused": 0,
-    "heart": 1,
-    "rocket": 0,
+    "heart": 2,
+    "rocket": 1,
     "eyes": 0
   }
 }
