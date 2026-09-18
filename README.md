@@ -30,27 +30,27 @@ Total: **20,208** lines of code across **77** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.7` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-17
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,307 · **Forks**: 201 · **Open issues**: 150 · **Contributors**: 57
+- **Stars**: 4,307 · **Forks**: 202 · **Open issues**: 151 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 138 · **Open PRs**: 11 · **Closed issues**: 121 · **Open issues**: 29 · **Commits**: 697
+- **Releases**: 46 · **Merged PRs**: 139 · **Open PRs**: 12 · **Closed issues**: 121 · **Open issues**: 30 · **Commits**: 699
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 5 | 2 | 1 | 1 | 9 |
-| last60d | 2026-07-19 | 2 | 12 | 4 | 4 | 1 | 24 |
-| 90d | 2026-06-19 | 3 | 14 | 7 | 10 | 1 | 37 |
-| last180d | 2026-03-21 | 9 | 25 | 8 | 15 | 3 | 71 |
-| 360d | 2025-09-22 | 14 | 60 | 11 | 34 | 11 | 146 |
-| last720d | 2024-09-27 | 27 | 102 | 11 | 69 | 25 | 455 |
+| 30d | 2026-08-19 | 2 | 3 | 3 | 1 | 2 | 10 |
+| last60d | 2026-07-20 | 2 | 13 | 5 | 4 | 2 | 25 |
+| 90d | 2026-06-20 | 3 | 15 | 8 | 10 | 2 | 38 |
+| last180d | 2026-03-22 | 9 | 26 | 9 | 15 | 4 | 72 |
+| 360d | 2025-09-23 | 14 | 61 | 12 | 34 | 12 | 147 |
+| last720d | 2024-09-28 | 27 | 103 | 12 | 69 | 26 | 457 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:20:16Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:10:52Z._
