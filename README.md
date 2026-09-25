@@ -14,15 +14,15 @@ x install lazysql
 
 ## Code insight
 
-Total: **35,585** lines of code across **136** files in the top 5 languages.
+Total: **36,063** lines of code across **138** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 34,638 | 1,719 | 5,528 | 121 |
+| Go | 35,116 | 1,734 | 5,556 | 123 |
 | Sql | 704 | 8 | 63 | 4 |
 | Sh | 127 | 10 | 16 | 3 |
 | Yaml | 116 | 0 | 5 | 1 |
-| Markdown | 0 | 887 | 315 | 7 |
+| Markdown | 0 | 889 | 315 | 7 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **35,585** lines of code across **136** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.9` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-25
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,322 · **Forks**: 200 · **Open issues**: 152 · **Contributors**: 60
+- **Stars**: 4,323 · **Forks**: 200 · **Open issues**: 153 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 147 · **Open PRs**: 9 · **Closed issues**: 123 · **Open issues**: 29 · **Commits**: 758
+- **Releases**: 48 · **Merged PRs**: 149 · **Open PRs**: 9 · **Closed issues**: 123 · **Open issues**: 30 · **Commits**: 762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 3 | 10 | 1 | 1 | 3 | 51 |
-| last60d | 2026-07-26 | 4 | 19 | 1 | 3 | 3 | 67 |
-| 90d | 2026-06-26 | 5 | 22 | 5 | 9 | 3 | 73 |
-| last180d | 2026-03-28 | 11 | 34 | 6 | 15 | 4 | 117 |
-| 360d | 2025-09-29 | 16 | 68 | 9 | 34 | 13 | 192 |
-| last720d | 2024-10-04 | 29 | 111 | 9 | 70 | 24 | 515 |
+| 30d | 2026-08-26 | 3 | 11 | 1 | 1 | 4 | 54 |
+| last60d | 2026-07-27 | 4 | 20 | 1 | 3 | 4 | 70 |
+| 90d | 2026-06-27 | 5 | 23 | 5 | 9 | 4 | 76 |
+| last180d | 2026-03-29 | 11 | 36 | 6 | 15 | 5 | 121 |
+| 360d | 2025-09-30 | 16 | 70 | 9 | 34 | 14 | 196 |
+| last720d | 2024-10-05 | 29 | 113 | 9 | 70 | 25 | 519 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:05:06Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:16:26Z._
