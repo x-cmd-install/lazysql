@@ -37,7 +37,7 @@ Total: **42,520** lines of code across **159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,358 · **Forks**: 203 · **Open issues**: 153 · **Contributors**: 61
+- **Stars**: 4,361 · **Forks**: 203 · **Open issues**: 153 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **42,520** lines of code across **159** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 16 | 1 | 1 | 3 | 69 |
-| last60d | 2026-08-07 | 5 | 22 | 1 | 3 | 3 | 85 |
-| 90d | 2026-07-08 | 5 | 28 | 4 | 6 | 3 | 93 |
-| last180d | 2026-04-09 | 12 | 42 | 6 | 16 | 4 | 140 |
-| 360d | 2025-10-11 | 17 | 71 | 9 | 34 | 13 | 209 |
-| last720d | 2024-10-16 | 30 | 118 | 9 | 72 | 23 | 529 |
+| 30d | 2026-09-07 | 4 | 16 | 1 | 1 | 3 | 69 |
+| last60d | 2026-08-08 | 5 | 22 | 1 | 2 | 3 | 85 |
+| 90d | 2026-07-09 | 5 | 28 | 3 | 6 | 3 | 93 |
+| last180d | 2026-04-10 | 12 | 42 | 6 | 16 | 4 | 140 |
+| 360d | 2025-10-12 | 17 | 71 | 9 | 34 | 13 | 209 |
+| last720d | 2024-10-17 | 30 | 117 | 9 | 71 | 22 | 529 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:48:45Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:12:08Z._
