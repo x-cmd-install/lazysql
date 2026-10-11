@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 744,
       "digest": "sha256:af81813db0154ce856b89e259cf8a645993819eb0f37adbf1e9d86cb9f1a936e",
-      "download_count": 66,
+      "download_count": 68,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:16Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_0.6.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8617758,
       "digest": "sha256:9ead7110d62a5ac03aaf14854105a0d4c399fbe84d3a4f4fa7771f4652c2a2c3",
-      "download_count": 65,
+      "download_count": 76,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:18Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9173196,
       "digest": "sha256:fb032e65686dfdc2a614efff94ef4ae27d16dbceb783eb01c4b3a75968b8b035",
-      "download_count": 35,
+      "download_count": 42,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:17Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8305413,
       "digest": "sha256:e7ea1760e7ffcdcdddc6b693e7dc79675aedc3441b3e85b27aa7a376be7bf48a",
-      "download_count": 47,
+      "download_count": 54,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:17Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9040062,
       "digest": "sha256:84115066cac3444dd7934ab23d5189495a3fc7a0a74575be1a3ef5d38eaf5b2b",
-      "download_count": 447,
+      "download_count": 487,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:17Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8322181,
       "digest": "sha256:67674f6b3117069445c1e7e3ba1dd001f9473f0a251fd4f20666b0a7195377dd",
-      "download_count": 33,
+      "download_count": 39,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:18Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8921568,
       "digest": "sha256:42d8562555fab33c9222bb1aa09579ad14aab22763c0012fb1a78f79b57974de",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:17Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Windows_i386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9153020,
       "digest": "sha256:fc85c0d1c76db2b8c38e924aa209fe802b274748e8f263e8c499d457674e5d41",
-      "download_count": 143,
+      "download_count": 155,
       "created_at": "2026-10-05T08:27:15Z",
       "updated_at": "2026-10-05T08:27:17Z",
       "browser_download_url": "https://github.com/jorgerojas26/lazysql/releases/download/v0.6.0/lazysql_Windows_x86_64.zip"
@@ -363,5 +363,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/jorgerojas26/lazysql/tarball/v0.6.0",
   "zipball_url": "https://api.github.com/repos/jorgerojas26/lazysql/zipball/v0.6.0",
-  "body": "## Changelog\n* b961776 Merge branch 'main' into feat/anonymous-telemetry\n* 46a812e Merge main into feat/upgrade-notices and resolve conflicts\n* 383a667 Merge pull request #345 from anandghegde/fix/editor-result-set-routing\n* 52960a5 Merge pull request #357 from jorgerojas26/feat/copy-rows-formats\n* 8511883 Merge pull request #358 from anandghegde/fix/local-config-save\n* 5194362 Merge pull request #359 from jorgerojas26/feat/anonymous-telemetry\n* ecd5cd1 Merge pull request #361 from jorgerojas26/feat/hide-columns\n* 81dc59e Merge pull request #362 from jorgerojas26/fix/tree-search-results-and-navigation\n* 1950cd1 Merge pull request #363 from jorgerojas26/feat/upgrade-notices\n* 15b6c4c Move home version label to border and show upgrade toasts\n* 938092e chore: record column visibility pull request\n* 7e30103 feat: add in-app upgrade notices and updater\n* 67e0421 feat: add opt-in anonymous telemetry\n* 4842855 feat: add opt-out aggregate product telemetry\n* 7926b65 feat: copy selected rows in multiple formats\n* 2e930f3 feat: persist per-table column visibility\n* 0e0a8f4 fix: correct tree search matching and navigation\n* 334a23b fix: don't write merged global config into the local .lazysql.toml\n* b4eb6b8 fix: make column modal opaque and simplify its footer\n* 3c27ed3 fix: make editor query routing quote and comment aware\n* 14a1b4b fix: preserve env templates when saving connections\n* 590377e fix: respect SQL dialects when routing editor results\n* 51d5225 fix: show rows for editor queries that return a result set\n\n"
+  "body": "## Changelog\n* b961776 Merge branch 'main' into feat/anonymous-telemetry\n* 46a812e Merge main into feat/upgrade-notices and resolve conflicts\n* 383a667 Merge pull request #345 from anandghegde/fix/editor-result-set-routing\n* 52960a5 Merge pull request #357 from jorgerojas26/feat/copy-rows-formats\n* 8511883 Merge pull request #358 from anandghegde/fix/local-config-save\n* 5194362 Merge pull request #359 from jorgerojas26/feat/anonymous-telemetry\n* ecd5cd1 Merge pull request #361 from jorgerojas26/feat/hide-columns\n* 81dc59e Merge pull request #362 from jorgerojas26/fix/tree-search-results-and-navigation\n* 1950cd1 Merge pull request #363 from jorgerojas26/feat/upgrade-notices\n* 15b6c4c Move home version label to border and show upgrade toasts\n* 938092e chore: record column visibility pull request\n* 7e30103 feat: add in-app upgrade notices and updater\n* 67e0421 feat: add opt-in anonymous telemetry\n* 4842855 feat: add opt-out aggregate product telemetry\n* 7926b65 feat: copy selected rows in multiple formats\n* 2e930f3 feat: persist per-table column visibility\n* 0e0a8f4 fix: correct tree search matching and navigation\n* 334a23b fix: don't write merged global config into the local .lazysql.toml\n* b4eb6b8 fix: make column modal opaque and simplify its footer\n* 3c27ed3 fix: make editor query routing quote and comment aware\n* 14a1b4b fix: preserve env templates when saving connections\n* 590377e fix: respect SQL dialects when routing editor results\n* 51d5225 fix: show rows for editor queries that return a result set\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/jorgerojas26/lazysql/releases/403511296/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
