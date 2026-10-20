@@ -14,14 +14,14 @@ x install lazysql
 
 ## Code insight
 
-Total: **42,620** lines of code across **159** files in the top 5 languages.
+Total: **42,758** lines of code across **159** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 39,672 | 1,796 | 5,871 | 145 |
 | Json | 1,561 | 0 | 0 | 2 |
 | Sql | 723 | 10 | 63 | 6 |
-| JavaScript | 394 | 10 | 26 | 2 |
+| JavaScript | 532 | 10 | 33 | 2 |
 | Sh | 136 | 13 | 17 | 4 |
 
 ## Source
@@ -32,7 +32,7 @@ Total: **42,620** lines of code across **159** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-19
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **42,620** lines of code across **159** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 156 · **Open PRs**: 9 · **Closed issues**: 127 · **Open issues**: 27 · **Commits**: 794
+- **Releases**: 50 · **Merged PRs**: 156 · **Open PRs**: 9 · **Closed issues**: 127 · **Open issues**: 27 · **Commits**: 795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 4 | 8 | 1 | 1 | 2 | 24 |
-| last60d | 2026-08-20 | 6 | 18 | 1 | 3 | 3 | 77 |
-| 90d | 2026-07-21 | 6 | 29 | 2 | 6 | 3 | 93 |
-| last180d | 2026-04-22 | 13 | 42 | 6 | 16 | 4 | 141 |
-| 360d | 2025-10-24 | 18 | 70 | 9 | 34 | 13 | 210 |
-| last720d | 2024-10-29 | 30 | 116 | 9 | 72 | 22 | 529 |
+| 30d | 2026-09-20 | 4 | 8 | 1 | 1 | 2 | 25 |
+| last60d | 2026-08-21 | 6 | 18 | 1 | 3 | 3 | 78 |
+| 90d | 2026-07-22 | 6 | 28 | 2 | 5 | 3 | 94 |
+| last180d | 2026-04-23 | 13 | 41 | 6 | 16 | 4 | 142 |
+| 360d | 2025-10-25 | 18 | 70 | 9 | 34 | 13 | 211 |
+| last720d | 2024-10-30 | 30 | 116 | 9 | 72 | 22 | 530 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazysql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:59:50Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:06:26Z._
