@@ -37,7 +37,7 @@ x install lazysql
 
 ## 流行度
 
-- **Star**: 4,381 · **Fork**: 204 · **开放 issue**: 154 · **贡献者**: 61
+- **Star**: 4,382 · **Fork**: 204 · **开放 issue**: 154 · **贡献者**: 61
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install lazysql
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 7 | 2 | 1 | 1 | 25 |
-| last60d | 2026-08-23 | 5 | 18 | 2 | 3 | 3 | 78 |
-| 90d | 2026-07-24 | 6 | 28 | 3 | 5 | 3 | 94 |
-| last180d | 2026-04-25 | 13 | 41 | 7 | 15 | 4 | 142 |
-| 360d | 2025-10-27 | 18 | 70 | 10 | 34 | 13 | 211 |
-| last720d | 2024-11-01 | 29 | 116 | 10 | 72 | 22 | 527 |
+| 30d | 2026-09-23 | 2 | 7 | 2 | 1 | 1 | 25 |
+| last60d | 2026-08-24 | 5 | 18 | 2 | 3 | 3 | 78 |
+| 90d | 2026-07-25 | 6 | 28 | 3 | 5 | 3 | 94 |
+| last180d | 2026-04-26 | 13 | 41 | 7 | 15 | 4 | 142 |
+| 360d | 2025-10-28 | 17 | 70 | 10 | 33 | 13 | 211 |
+| last720d | 2024-11-02 | 29 | 116 | 10 | 72 | 22 | 527 |
 
 ## Release 资产
 
@@ -68,6 +68,16 @@ x install lazysql
 | [lazysql_Windows_i386.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.7.0/lazysql_Windows_i386.zip) | 8.5 MiB | `native/win/x64` |
 | [lazysql_Windows_x86_64.zip](https://github.com/jorgerojas26/lazysql/releases/download/v0.7.0/lazysql_Windows_x86_64.zip) | 8.7 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/lazysql) 上共有 **14** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.7.0` | ✅ latest |
+| Nix unstable | `0.5.9` | ⚠️ outdated |
+| Void | `0.7.0` | ✅ latest |
+
 ## 改进这些数据
 
 lazysql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lazysql` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -77,4 +87,4 @@ lazysql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:01:45Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:12:48Z._
