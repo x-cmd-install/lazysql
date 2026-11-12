@@ -125,12 +125,12 @@
 - repo: nix_unstable
   srcname: lazysql
   visiblename: lazysql
-  version: 0.5.9
+  version: 0.7.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Cross-platform TUI database management tool written in Go
   maintainers:
-    - fallback-mnt-nix@repology
+    - kamadorueda@gmail.com
   licenses:
     - MIT
 - repo: scoop
