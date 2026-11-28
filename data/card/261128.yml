@@ -1,0 +1,142 @@
+about:
+  description: "A cross-platform TUI database management tool written in Go."
+  license: MIT
+  homepage: 
+  head: 7be64b2
+  archived: false
+  latestVersion: "v0.7.0"
+  latestRelease: "v0.7.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:07:56Z
+timeline:
+  created: 2023-05-29
+  lastCommit: 2026-10-19
+  lastVersion: 2026-10-12
+  lastRelease: 2026-10-12
+  lastPrerelease: 
+popularity:
+  star: 4448
+  watcher: 24
+  fork: 222
+  release: 50
+  contributor: 61
+  pullRequest: 201
+  issue: 158
+language:
+  Go: 1375259
+  JavaScript: 27900
+  Shell: 4498
+totalBytes: 1407657
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 5
+    openPR: 8
+    closedIssue: 1
+    openIssue: 4
+    commit: 19
+  last90d:
+    since: 2026-08-30
+    release: 5
+    mergedPR: 18
+    openPR: 8
+    closedIssue: 2
+    openIssue: 7
+    commit: 78
+  last180d:
+    since: 2026-06-01
+    release: 9
+    mergedPR: 32
+    openPR: 11
+    closedIssue: 12
+    openIssue: 7
+    commit: 112
+  last360d:
+    since: 2025-12-03
+    release: 17
+    mergedPR: 63
+    openPR: 15
+    closedIssue: 28
+    openIssue: 14
+    commit: 184
+  last720d:
+    since: 2024-12-08
+    release: 28
+    mergedPR: 103
+    openPR: 15
+    closedIssue: 65
+    openIssue: 25
+    commit: 480
+total:
+  release: 50
+  mergedPR: 156
+  openPR: 15
+  closedIssue: 127
+  openIssue: 31
+  commit: 795
+---
+path: /home/runner/.x-repo/github.com/jorgerojas26/lazysql
+collectedAt: 2026-11-28T08:07:57Z
+loc:
+  Go:
+    code: 39672
+    comments: 1796
+    blanks: 5871
+    files: 145
+  Json:
+    code: 1561
+    comments: 0
+    blanks: 0
+    files: 2
+  Sql:
+    code: 723
+    comments: 10
+    blanks: 63
+    files: 6
+  JavaScript:
+    code: 532
+    comments: 10
+    blanks: 33
+    files: 2
+  Sh:
+    code: 136
+    comments: 13
+    blanks: 17
+    files: 4
+  Yaml:
+    code: 116
+    comments: 0
+    blanks: 5
+    files: 1
+  Toml:
+    code: 18
+    comments: 2
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1111
+    blanks: 356
+    files: 8
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 42847
+  comments: 2959
+  blanks: 6357
+  files: 170
+---
+
+---
